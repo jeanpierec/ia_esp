@@ -2,7 +2,8 @@
 ## Repository for Artificial Intelligence Course
 Leyton Jean Piere Castro
 
-¡Hola! Este repositorio lo utilicé durante mi paso por la Especialización en analítica de Big Data de la Universidad Autónoma de Occidente.  
+¡Hola! Este repositorio lo utilicé durante mi paso por la Especialización en analítica de Big Data de la Universidad Autónoma de Occidente, especialmente en la asignatura de Inteligencia Artificial.
+  
 Si tienes alguna pregunta o comentario respecto al desarrollo siempre puedes escribirme.  
 
 **Leyton Jean Piere Castro**  
